@@ -15,6 +15,7 @@ Kannattavaksi jäseneksi voidaan hyväksyä yksityinen henkilö tai oikeuskelpoi
 
 Varsinaiset jäsenet ja kannattavat jäsenet hyväksyy hakemuksesta yhdistyksen hallitus.
 
+Hakemuksen voi lähettää osoitteeseen: jasenasiat@kyberpuolustuskilta.fi
 <hr>
 <p style="text-align: center;">
 PJ: Anssi Kärkkäinen 
