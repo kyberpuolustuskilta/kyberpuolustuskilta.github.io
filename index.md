@@ -20,4 +20,3 @@ Hakemuksen voi lähettää osoitteeseen: jasenasiat@kyberpuolustuskilta.fi
 <p style="text-align: center;">
 PJ: Anssi Kärkkäinen 
 <BR>
-anssi.p.karkkainen@gmail.com
